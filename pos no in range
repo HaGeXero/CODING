@@ -1,0 +1,4 @@
+list =[-4,6,-10,22,34] 
+#condition for positive outcome
+b = [i for i in list if i>= 0] 
+print(b)
